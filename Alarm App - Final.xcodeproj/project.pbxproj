@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		FC8D00A12E70BA360000B081 /* Exceptions for "Alarm App - Final" folder in "Alarm App - Final" target */ = {
+		FC1A4BB02E77289600D96D43 /* Exceptions for "Alarm App - Final" folder in "Alarm App - Final" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -24,7 +24,7 @@
 		FC8D00912E70BA340000B081 /* Alarm App - Final */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				FC8D00A12E70BA360000B081 /* Exceptions for "Alarm App - Final" folder in "Alarm App - Final" target */,
+				FC1A4BB02E77289600D96D43 /* Exceptions for "Alarm App - Final" folder in "Alarm App - Final" target */,
 			);
 			path = "Alarm App - Final";
 			sourceTree = "<group>";
